@@ -6,7 +6,7 @@ Kode dalam repositori ini menggunakan data dummy yang dihasilkan secara acak unt
 
 **Tujuan Kode:** Kode ini dimaksudkan untuk pembelajaran, pengujian, atau demonstrasi. Pastikan untuk memodifikasi atau menyesuaikan kode sesuai dengan kebutuhan aplikasi Anda sebelum digunakan secara luas.
 
-**Ketergantungan Modul:** Pastikan Anda telah menginstal semua modul yang diperlukan sebelum menjalankan kode ini. Modul yang diperlukan termasuk pandas, matplotlib, dan xlsxwriter. Gunakan perintah `pip install pandas matplotlib openpyxl` untuk menginstalnya.
+**Ketergantungan Modul:** Pastikan Anda telah menginstal semua modul yang diperlukan sebelum menjalankan kode ini. Modul yang diperlukan termasuk pandas, matplotlib, dan xlsxwriter.
 
 **Keamanan Data:** Kode ini mencakup fungsi untuk menyimpan data ke dalam file Excel. Pastikan untuk memahami cara data disimpan dan digunakan, terutama jika Anda berencana untuk membagikannya atau menyimpannya secara permanen.
 
